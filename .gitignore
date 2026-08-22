@@ -1,0 +1,22 @@
+# Operating-system files
+.DS_Store
+
+# Vivado generated files and directories
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.bit
+*.bin
+*.ltx
+*.xpr
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.tmp/
